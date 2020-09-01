@@ -6,3 +6,10 @@
 1+1
 ```
 
+
+
+![fig1](../figures/fig1.png)
+
+
+
+![fig2](../figures/fig2.png)
