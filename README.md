@@ -8,8 +8,8 @@
 
 
 
-![fig1](https://github.com/yliuhz/myfirstblog/blob/test/figures/fig1.png)
+![fig1](https://yliuhz.github.io/myfirstblog/figures/fig1.png)
 
 
 
-![fig2](https://github.com/yliuhz/myfirstblog/blob/test/figures/fig2.png)
+![fig2](https://yliuhz.github.io/myfirstblog/figures/fig2.png)
