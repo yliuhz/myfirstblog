@@ -2,16 +2,16 @@
 
 <center><b>table.png</b></center>
 
-<img align=center>![table](https://yliuhz.github.io/myfirstblog/figures/table.png)</img>
+<img align=center>![table](https://yliuhz.github.io/myfirstblog/figures/table.png)
 
 
 <center><b>fig1.png</b></center>
 
-<img align=center>![fig1](https://yliuhz.github.io/myfirstblog/figures/fig1.png)</img>
+<img align=center>![fig1](https://yliuhz.github.io/myfirstblog/figures/fig1.png)
 
 <center><b>fig2.png</b></center>
 
-<img align=center>![fig2](https://yliuhz.github.io/myfirstblog/figures/fig2.png)</img>
+<img align=center>![fig2](https://yliuhz.github.io/myfirstblog/figures/fig2.png)
 
 <center><b>fig3.png</b></center>
 
