@@ -1,35 +1,45 @@
 ## NIR荧光分子-最大吸收波长实验报告 图片及表格
 
+<center><b>table.png</b></center>
 
-*table.png*
 ![table](https://yliuhz.github.io/myfirstblog/figures/table.png)
 
-*fig1.png*
+<center><b>fig1.png</b></center>
+
 ![fig1](https://yliuhz.github.io/myfirstblog/figures/fig1.png)
 
-*fig2.png*
+<center><b>fig2.png</b></center>
+
 ![fig2](https://yliuhz.github.io/myfirstblog/figures/fig2.png)
 
-*fig3.png*
+<center><b>fig3.png</b></center>
+
 ![fig3](https://yliuhz.github.io/myfirstblog/figures/fig3.png)
 
-*fig4.png*
+<center><b>fig4.png</b></center>
+
 ![fig4](https://yliuhz.github.io/myfirstblog/figures/fig4.png)
 
-*fig5.png*
+<center><b>fig5.png</b></center>
+
 ![fig5](https://yliuhz.github.io/myfirstblog/figures/fig5.png)
 
-*fig6.png*
+<center><b>fig6.png</b></center>
+
 ![fig6](https://yliuhz.github.io/myfirstblog/figures/fig6.png)
 
-*fig7.png*
+<center><b>fig7.png</b></center>
+
 ![fig7](https://yliuhz.github.io/myfirstblog/figures/fig7.png)
 
-*fig8.png*
+<center><b>fig8.png</b></center>
+
 ![fig8](https://yliuhz.github.io/myfirstblog/figures/fig8.png)
 
-*fig9.png*
+<center><b>fig9.png</b></center>
+
 ![fig9](https://yliuhz.github.io/myfirstblog/figures/fig9.png)
 
-*fig10.png*
+<center><b>fig10.png</b></center>
+
 ![fig10](https://yliuhz.github.io/myfirstblog/figures/fig10.png)
