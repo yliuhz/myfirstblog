@@ -15,32 +15,32 @@
 
 <center><b>fig3.png</b></center>
 
-<img align=center>![fig3](https://yliuhz.github.io/myfirstblog/figures/fig3.png)</img>
+<img align=center>![fig3](https://yliuhz.github.io/myfirstblog/figures/fig3.png)
 
 <center><b>fig4.png</b></center>
 
-<img align=center>![fig4](https://yliuhz.github.io/myfirstblog/figures/fig4.png)</img>
+<img align=center>![fig4](https://yliuhz.github.io/myfirstblog/figures/fig4.png)
 
 <center><b>fig5.png</b></center>
 
-<img align=center>![fig5](https://yliuhz.github.io/myfirstblog/figures/fig5.png)</img>
+<img align=center>![fig5](https://yliuhz.github.io/myfirstblog/figures/fig5.png)
 
 <center><b>fig6.png</b></center>
 
-<img align=center>![fig6](https://yliuhz.github.io/myfirstblog/figures/fig6.png)</img>
+<img align=center>![fig6](https://yliuhz.github.io/myfirstblog/figures/fig6.png)
 
 <center><b>fig7.png</b></center>
 
-<img align=center>![fig7](https://yliuhz.github.io/myfirstblog/figures/fig7.png)</img>
+<img align=center>![fig7](https://yliuhz.github.io/myfirstblog/figures/fig7.png)
 
 <center><b>fig8.png</b></center>
 
-<img align=center>![fig8](https://yliuhz.github.io/myfirstblog/figures/fig8.png)</img>
+<img align=center>![fig8](https://yliuhz.github.io/myfirstblog/figures/fig8.png)
 
 <center><b>fig9.png</b></center>
 
-<img align=center>![fig9](https://yliuhz.github.io/myfirstblog/figures/fig9.png)</img>
+<img align=center>![fig9](https://yliuhz.github.io/myfirstblog/figures/fig9.png)
 
 <center><b>fig10.png</b></center>
 
-<img align=center>![fig10](https://yliuhz.github.io/myfirstblog/figures/fig10.png)</img>
+<img align=center>![fig10](https://yliuhz.github.io/myfirstblog/figures/fig10.png)
